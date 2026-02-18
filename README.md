@@ -2,7 +2,7 @@
 
 Computer Science Graduate focused on Distributed Systems and Applied AI Enthusiast
 
-Built and deployed academic-scale systems —
+Built and deployed academic-scale systems 
 including Kafka–Spark streaming pipelines handling 5K+ events/sec
 and neural surrogate models achieving 92.4% accuracy with 90× simulation speedup.
 
