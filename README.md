@@ -1,16 +1,101 @@
-## Hi there 👋
+# Sinchana S
 
-<!--
-**sinchana-s-06/sinchana-s-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineer · Distributed Systems & Applied AI
 
-Here are some ideas to get you started:
+I design scalable data systems and applied machine learning models —
+from Kafka–Spark streaming architectures handling 5K+ events/sec
+to neural surrogate models accelerating CFD simulations by 90×.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ CS Major  · Published at INCOFT-2025 · Open to SDE / ML / Data Engineering roles
+
+---
+
+## Technical Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Distributed & Streaming Systems
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![HDFS](https://img.shields.io/badge/HDFS-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### Infrastructure & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+---
+
+## Featured Projects
+
+### DetectPro — Real-Time Fraud Analytics Pipeline
+End-to-end streaming fraud detection system built using Kafka and Spark Structured Streaming.
+
+- **5,000+ events/sec** throughput · **sub-2s** end-to-end latency · **89% detection accuracy**
+- Hybrid rule-based heuristics and graph-structured anomaly detection using account relationship modeling
+- Bronze → Silver → Gold layered data architecture
+- Real-time anomaly monitoring dashboard (PyQt5)
+
+Technologies: Kafka • Spark • HDFS • Python • Graph Analytics
+
+---
+
+### LV Surrogate App — AI Cardiac Digital Twin
+Neural surrogate model approximating CFD simulations of left-ventricle hemodynamics.
+
+- **92.4% prediction accuracy** · **90× computational speedup** (45s → 0.5s)
+- Predicts pressure, velocity, and wall shear stress fields
+- Physics-informed custom loss functions preserving pressure–velocity consistency
+- Modular inference pipeline with interactive Streamlit dashboard
+
+Technologies: TensorFlow • Streamlit • Python • Surrogate Modeling
+
+---
+
+### CFD Simulation of Left Ventricle Hemodynamics
+Computational fluid dynamics modeling of cardiac flow using ANSYS Fluent.
+
+- Transient flow simulation with physiological boundary conditions
+- Pressure, velocity, and wall shear stress contour visualization
+- Hemodynamic behavior analysis under realistic cardiac cycles
+
+Technologies: ANSYS Fluent • CFD • Fluid Mechanics
+
+---
+
+## Research
+
+**Super Resolution of Images Using Residual Networks**  
+3rd International Conference on Futuristic Technologies (INCOFT-2025) · Feb 2025  
+
+Deep residual CNN for single-image super resolution — reconstructing high-frequency textures from low-resolution inputs using skip connections and perceptual loss, outperforming bicubic interpolation baselines on PSNR and SSIM metrics.
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sinchana-s-06&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinchana-s-06&layout=compact&theme=transparent&hide_border=true" height="150"/>
+</p>
+
+---
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/sinchana-s06  
+Email: sinchana.sridhar06@gmail.com  
+GitHub: https://github.com/sinchana-s-06
