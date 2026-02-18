@@ -1,14 +1,15 @@
 # Sinchana S
 
-Computer Science Engineer · Distributed Systems & Applied AI
+Computer Science Graduate focused on Distributed Systems and Applied AI Enthusiast
 
-I design scalable data systems and applied machine learning models —
-from Kafka–Spark streaming architectures handling 5K+ events/sec
-to neural surrogate models accelerating CFD simulations by 90×.
+Built and deployed academic-scale systems —
+including Kafka–Spark streaming pipelines handling 5K+ events/sec
+and neural surrogate models achieving 92.4% accuracy with 90× simulation speedup.
 
- CS Major  · Published at INCOFT-2025 · Open to SDE / ML / Data Engineering roles
+Strong interest in backend engineering, data systems, and real-time analytics.
 
----
+CS Major · Published at INCOFT-2025 · Open to SDE / ML / Data Engineering roles
+
 
 ## Technical Stack
 
@@ -30,6 +31,9 @@ to neural surrogate models accelerating CFD simulations by 90×.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
+### Backend & Databases
+RESTful APIs · Query Optimization · Transaction Management · ETL Pipelines
+
 ### Infrastructure & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -37,23 +41,26 @@ to neural surrogate models accelerating CFD simulations by 90×.
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
----
+
 
 ## Featured Projects
 
 ### DetectPro — Real-Time Fraud Analytics Pipeline
+
 End-to-end streaming fraud detection system built using Kafka and Spark Structured Streaming.
 
 - **5,000+ events/sec** throughput · **sub-2s** end-to-end latency · **89% detection accuracy**
 - Hybrid rule-based heuristics and graph-structured anomaly detection using account relationship modeling
 - Bronze → Silver → Gold layered data architecture
+- Implemented indexed MySQL storage and optimized queries for low-latency analytics
 - Real-time anomaly monitoring dashboard (PyQt5)
 
 Technologies: Kafka • Spark • HDFS • Python • Graph Analytics
 
----
+
 
 ### LV Surrogate App — AI Cardiac Digital Twin
+
 Neural surrogate model approximating CFD simulations of left-ventricle hemodynamics.
 
 - **92.4% prediction accuracy** · **90× computational speedup** (45s → 0.5s)
@@ -63,9 +70,9 @@ Neural surrogate model approximating CFD simulations of left-ventricle hemodynam
 
 Technologies: TensorFlow • Streamlit • Python • Surrogate Modeling
 
----
 
 ### CFD Simulation of Left Ventricle Hemodynamics
+
 Computational fluid dynamics modeling of cardiac flow using ANSYS Fluent.
 
 - Transient flow simulation with physiological boundary conditions
@@ -74,7 +81,7 @@ Computational fluid dynamics modeling of cardiac flow using ANSYS Fluent.
 
 Technologies: ANSYS Fluent • CFD • Fluid Mechanics
 
----
+
 
 ## Research
 
@@ -82,9 +89,6 @@ Technologies: ANSYS Fluent • CFD • Fluid Mechanics
 3rd International Conference on Futuristic Technologies (INCOFT-2025) · Feb 2025  
 
 Deep residual CNN for single-image super resolution — reconstructing high-frequency textures from low-resolution inputs using skip connections and perceptual loss, outperforming bicubic interpolation baselines on PSNR and SSIM metrics.
-
----
-
 
 
 ## Contact
