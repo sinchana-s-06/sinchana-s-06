@@ -99,5 +99,5 @@ Deep residual CNN for single-image super resolution — reconstructing high-freq
 ## Contact
 
 LinkedIn: https://linkedin.com/in/sinchana-s06  
-Email: sinchana.sridhar06@gmail.com  
+Email: sinchanaa06@gmail.com 
 GitHub: https://github.com/sinchana-s-06
