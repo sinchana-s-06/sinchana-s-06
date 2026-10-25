@@ -42,7 +42,7 @@ RESTful APIs · Flask · MySQL · MongoDB · Transaction Management · Query Opt
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-CI/CD
+
 
 ## Featured Projects
 
