@@ -1,6 +1,6 @@
 # Sinchana S
 
-Computer Science graduate focused on **designing and developing end-to-end software systems, machine learning applications, and computational solutions**, with an emphasis on system architecture, data processing, and performance optimization.
+Computer Science graduate focused on designing and developing end-to-end software systems, machine learning applications, and computational solutions, with an emphasis on system architecture, data processing, and performance optimization.
 
 My work includes engineering real-time data pipelines, developing predictive models, automating workflows, and applying machine learning to computationally intensive problems, with a focus on practical implementation and measurable results.
 
