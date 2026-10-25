@@ -8,7 +8,7 @@ and neural surrogate models achieving 92.4% accuracy with 90× simulation speedu
 
 Strong interest in backend engineering, data systems, and real-time analytics.
 
-CS Major · Published at INCOFT-2025 · Open to SDE / ML / Data Engineering roles
+
 
 
  ## Technical Stack
