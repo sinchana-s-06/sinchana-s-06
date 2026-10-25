@@ -1,14 +1,10 @@
 # Sinchana S
 
-Computer Science Graduate focused on Distributed Systems and Applied AI Enthusiast
+Computer Science graduate focused on **designing and developing end-to-end software systems, machine learning applications, and computational solutions**, with an emphasis on system architecture, data processing, and performance optimization.
 
-Built and deployed academic-scale systems 
-including Kafka–Spark streaming pipelines handling 5K+ events/sec
-and neural surrogate models achieving 92.4% accuracy with 90× simulation speedup.
+My work includes engineering real-time data pipelines, developing predictive models, automating workflows, and applying machine learning to computationally intensive problems, with a focus on practical implementation and measurable results.
 
-Strong interest in backend engineering, data systems, and real-time analytics.
-
-
+I focus on building reliable, efficient solutions while continuously expanding my technical expertise across different areas of computer science.
 
 
  ## Technical Stack
