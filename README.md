@@ -83,17 +83,8 @@ Computational fluid dynamics modeling of cardiac flow using ANSYS Fluent.
 Technologies: ANSYS Fluent • CFD • Fluid Mechanics
 
 
-
-## Research
-
-**Super Resolution of Images Using Residual Networks**  
-3rd International Conference on Futuristic Technologies (INCOFT-2025) · Feb 2025  
-
-Deep residual CNN for single-image super resolution — reconstructing high-frequency textures from low-resolution inputs using skip connections and perceptual loss, outperforming bicubic interpolation baselines on PSNR and SSIM metrics.
-
-
 ## Contact
 
 LinkedIn: https://linkedin.com/in/sinchana-s06  
-Email: sinchanaa06@gmail.com 
+Email: sinchanaa06@gmail.com  
 GitHub: https://github.com/sinchana-s-06
