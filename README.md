@@ -88,3 +88,4 @@ Technologies: ANSYS Fluent • CFD • Fluid Mechanics
 LinkedIn: https://linkedin.com/in/sinchana-s06  
 Email: sinchanaa06@gmail.com  
 GitHub: https://github.com/sinchana-s-06
+Portfolio: https://sinchana-s.pages.dev/
